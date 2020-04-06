@@ -1,5 +1,6 @@
 # xplane-fps-utils
 
+```
 SYNOPSIS
     run_benchmarks.sh [-x resolution] [-y resolution]
   
@@ -13,3 +14,4 @@ DESCRIPTION
                   Set a custom resolution to run the benchmark in (x-axis pixels)
   - y resolution
                   Set a custom resolution to run the benchmark in  (y-axis pixels)
+```
